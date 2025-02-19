@@ -1,0 +1,62 @@
+body{
+    margin: 5px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.grid{
+    display:grid;
+    gap: 2px;
+    text-align: center;
+    width: 300px;
+}
+
+.elemento1{
+    width: 200px;
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+.elemento2{
+    width: 200px;
+    grid-column-start: 2;
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+.elemento3{
+    width: 200px;
+    grid-column-start: 3;
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+.elemento4{
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+.elemento5{
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+.elemento6{
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+.elemento7{
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+.elemento8{
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+.elemento9{
+    background-color: rgb(255, 8, 214);
+    padding: 20px;
+    color: rgb(238, 229, 107);
+}
+
